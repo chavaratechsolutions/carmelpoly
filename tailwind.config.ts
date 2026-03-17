@@ -1,0 +1,63 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/app/**/*.{js,ts,jsx,tsx}",
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
+    "./src/common/**/*.{js,ts,jsx,tsx}",
+    "./src/widgets/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    colors: {
+      primary: {
+        DEFAULT: '#164380',
+        light: '#ff5757',
+        dark: '#b10303',
+      },
+      secondary: {
+        DEFAULT: '#1E3A8A',
+        light: '#5C79D1',
+        dark: '#102A61',
+      },
+      accent: {
+        yellow: '#FFD54F',
+        soft: '#FFE082',
+      },
+      background: {
+        DEFAULT: '#FAFAFA',
+        surface: '#FFFFFF',
+      },
+      text: {
+        primary: '#1a1a1a',
+        secondary: '#666666',
+      },
+      red: {
+        50: '#fff0f0',
+        100: '#ffdddd',
+        200: '#ffc0c0',
+        300: '#ff9494',
+        400: '#ff5757',
+        500: '#ff2323',
+        600: '#ff0000',
+        700: '#d70000',
+        800: '#b10303',
+        900: '#920a0a',
+        950: '#500000',
+      },
+      white: "#FFFFFF",
+      gray: {
+        100: "#f7fafc",
+        200: "#edf2f7",
+        300: "#e2e8f0",
+        400: "#cbd5e0",
+        500: "#a0aec0",
+        600: "#718096",
+        700: "#4a5568",
+        800: "#2d3748",
+        900: "#1a202c",
+      },
+    } ,
+    extend: {},
+  },
+  plugins: [],
+};
