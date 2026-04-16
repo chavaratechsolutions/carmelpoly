@@ -469,9 +469,9 @@ export const managementTeam = [{
 },
 {
   id: 2,
-  name: "Fr James Devasia CMI",
+  name: "Rev.Fr.Antony Valekkalam CMI",
   position: "Principal",
-  image: "/management/James Kanyakonil.png",
+  image: "/management/Antony Valekkalam CMI.jpg",
   contact: "0477-2287241"
 },
 {
@@ -483,9 +483,9 @@ export const managementTeam = [{
 },
 {
   id: 4,
-  name: "Fr Bijo M.D. CMI",
+  name: "Rev.Fr.Siji Puthenveliyil CMI",
   position: "Bursar",
-  image: "/management/Bijo Mattaparambil.jpg",
+  image: "/management/Siji Puthenveliyil CMI.jpg",
   contact: "0477-2287243"
 },
 {

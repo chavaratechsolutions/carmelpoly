@@ -97,7 +97,8 @@ export default function Management() {
           <li>Sri Biju Das D. (2019 – 2020)</li>
           <li>Fr Kunjumon Job CMI (2020 – 2021)</li>
           <li>Fr Josekutty Chacko CMI (2021 – 2023)</li>
-          <li>Fr James Devasia CMI (2023 – present)</li>
+          <li>Fr James Devasia CMI (2023 – 2026)</li>
+          <li>Rev.Fr.Antony Valekkalam CMI (2026 – present)</li>
         </ol>
       </section>
     </div>
