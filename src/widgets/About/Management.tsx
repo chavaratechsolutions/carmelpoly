@@ -67,16 +67,16 @@ export default function Management() {
       <section className="space-y-2">
         <h2 className="text-xl font-semibold">Our Chairmen</h2>
         <ol className="list-decimal list-inside space-y-1">
-          <li>Fr Gilbert Palakunnel CMI (1958 – 1986)</li>
-          <li>Fr Joseph Palakunnel CMI (1986 – 1996)</li>
-          <li>Fr Sebastian Palathara CMI (1996 – 1999)</li>
-          <li>Fr Mathew Berchmans Kattapuram CMI (1999 – 2002)</li>
-          <li>Fr Probus Perumalil CMI (2002 – 2005)</li>
-          <li>Fr Joseph Chirayil CMI (2005 – 2008)</li>
-          <li>Fr Joseph Palakunnel CMI (2008 – 2011)</li>
-          <li>Fr Gregory Perumalil CMI (2011 – 2016)</li>
-          <li>Fr Mathew Arekalam CMI (2016 – 2023)</li>
-          <li>Fr Thomas Choolaparampil CMI (2023 – present)</li>
+          <li>Rev.Fr.Gilbert Palakunnel CMI (1958 – 1986)</li>
+          <li>Rev.Fr.Joseph Palakunnel CMI (1986 – 1996)</li>
+          <li>Rev.Fr.Sebastian Palathara CMI (1996 – 1999)</li>
+          <li>Rev.Fr.Mathew Berchmans Kattapuram CMI (1999 – 2002)</li>
+          <li>Rev.Fr.Probus Perumalil CMI (2002 – 2005)</li>
+          <li>Rev.Fr.Joseph Chirayil CMI (2005 – 2008)</li>
+          <li>Rev.Fr.Joseph Palakunnel CMI (2008 – 2011)</li>
+          <li>Rev.Fr.Gregory Perumalil CMI (2011 – 2016)</li>
+          <li>Rev.Fr.Mathew Arekalam CMI (2016 – 2023)</li>
+          <li>Rev.Fr.Thomas Choolaparampil CMI (2023 – present)</li>
         </ol>
       </section>
 
@@ -91,13 +91,13 @@ export default function Management() {
           <li>Sri K.C. Mathew (1997 – 1999)</li>
           <li>Sri K.B. Venkitachalam Iyer (1999 – 2000)</li>
           <li>Sri C.A. Thomas (2000 – 2002)</li>
-          <li>Fr Cyriac Kurian CMI (2002 – 2014)</li>
-          <li>Fr Kunjumon Job CMI (2014 – 2016)</li>
+          <li>Rev.Fr.Cyriac Kurian CMI (2002 – 2014)</li>
+          <li>Rev.Fr.Kunjumon Job CMI (2014 – 2016)</li>
           <li>Sri Thomaskutty Jose V. (2016 – 2019)</li>
           <li>Sri Biju Das D. (2019 – 2020)</li>
-          <li>Fr Kunjumon Job CMI (2020 – 2021)</li>
-          <li>Fr Josekutty Chacko CMI (2021 – 2023)</li>
-          <li>Fr James Devasia CMI (2023 – 2026)</li>
+          <li>Rev.Fr.Kunjumon Job CMI (2020 – 2021)</li>
+          <li>Rev.Fr.Josekutty Chacko CMI (2021 – 2023)</li>
+          <li>Rev.Fr.James Devasia CMI (2023 – 2026)</li>
           <li>Rev.Fr.Antony Valekkalam CMI (2026 – present)</li>
         </ol>
       </section>

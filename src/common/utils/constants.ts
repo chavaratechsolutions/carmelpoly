@@ -462,7 +462,7 @@ export const departments = {
 
 export const managementTeam = [{
   id: 1,
-  name: "Fr Thomas Choolaparampil CMI",
+  name: "Rev.Fr.Thomas Choolaparampil CMI",
   position: "Chairman",
   image: "/management/Choolaparampil.png",
   contact: "0477-2287240"
@@ -476,7 +476,7 @@ export const managementTeam = [{
 },
 {
   id: 3,
-  name: "Fr Jacob Kurian CMI",
+  name: "Rev.Fr.Jacob Kurian CMI",
   position: "Vice-Principal & Self-Financing Section Co-ordinator",
   image: "/management/Purakkary Jacob.png",
   contact: "0477-2287242"
@@ -490,7 +490,7 @@ export const managementTeam = [{
 },
 {
   id: 5,
-  name: "Fr Thomas G. CMI",
+  name: "Rev.Fr.Thomas G. CMI",
   position: "Hostel Warden",
   image: "/management/Pockavarayathu.png",
   contact: "0477-2287244"
