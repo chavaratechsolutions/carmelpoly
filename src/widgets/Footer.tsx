@@ -276,15 +276,8 @@ export default function Footer() {
         </div>
         <div>
           <span className="">
-            Crafted by{" "}
-            <Link
-              href="https://www.midnitcode.in"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="font-semibold underline-offset-2"
-            >
-              MidNitCode Innovations
-            </Link>
+            Powered by{" "}
+            <p > Chavara TechSolutions </p>
           </span>
         </div>
       </div>

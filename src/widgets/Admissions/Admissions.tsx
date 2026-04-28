@@ -31,7 +31,7 @@ export default function Admissions() {
         {/* Call to Action */}
         <div className="flex-1 flex flex-col items-center justify-center text-center space-y-4">
           <span className="text-3xl font-bold text-gray-800">
-            Admissions 2025
+            Admissions 2026
           </span>
           <span className="text-lg text-gray-600">
             Now Accepting Applications
@@ -48,7 +48,7 @@ export default function Admissions() {
           </Link>
         </div>
       </div>
-      <Recruiters/>
+      <Recruiters />
     </section>
   );
 }
