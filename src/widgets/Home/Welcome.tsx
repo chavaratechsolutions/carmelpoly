@@ -59,7 +59,7 @@ export default function Welcome() {
             title="Welcome to Carmel Polytechnic College"
           />
           <Image
-            src={"/slides/slide_002.png"}
+            src={"/slides/slide_001.png"}
             alt="College Image"
             width={1000}
             height={1000}
