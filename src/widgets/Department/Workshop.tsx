@@ -6,7 +6,7 @@ export default function Workshop() {
     { name: 'Fr Jaison Joseph CMI', role: 'Workshop Superintendent' },
     { name: 'Mr. Naijin Varghese', role: 'Workshop Instructor' },
     { name: 'Mr. Varghese Joseph', role: 'Workshop Instructor' },
-    { name: 'Mr. Jenson', role: 'Workshop Instructor' },
+    // { name: 'Mr. Jenson', role: 'Workshop Instructor' },
     { name: 'Mr. Bibin K.W.', role: 'Trade Instructor' },
     { name: 'Mr. Alex C. Mullassery', role: 'Trade Instructor' },
     { name: 'Fr Jaison Antony CMI', role: 'Trade Instructor' },
@@ -22,7 +22,7 @@ export default function Workshop() {
   return (
     <div className='px-[5vw] py-[2rem]'>
       <Titlebar title='Workshop Staff' />
-      
+
       <div className=" space-y-6 mt-5">
         <div className="bg-white overflow-hidden">
           <div className="grid md:grid-cols-2 gap-6">
@@ -39,7 +39,7 @@ export default function Workshop() {
             ))}
           </div>
         </div>
-        
+
         <div className="text-sm text-gray-500 italic mt-4">
           Our workshop team brings together expertise and dedication to ensure quality training and operations.
         </div>

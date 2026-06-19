@@ -292,7 +292,7 @@ export const departments = {
       "Mr. Jonu Joseph - Head of the Department",
       "Mr. Deepu V. Kurup - Lecturer",
       "Mr. Abin P.G. - Lecturer",
-      "Mr. Aneesh U. - Lecturer",
+      "Mr. Jayakrishnan M. - Lecturer",
       "Mr. Ben B. Thomas - Lecturer",
       "Mr. Rinju Punnoose - Demonstrator",
       "Mr. Jobin George - Demonstrator",
