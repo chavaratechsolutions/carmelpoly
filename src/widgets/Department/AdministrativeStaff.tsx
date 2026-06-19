@@ -16,18 +16,17 @@ export default function AdministrativeStaff() {
     {
       title: 'Aided Section',
       staff: [
-        { name: 'Fr James Devasia CMI', position: 'Principal' },
-        { name: 'Mr. Binny Joseph', position: 'Office Superintendent' },
-        { name: 'Mr. Syam Mohan', position: 'Senior Clerk' },
+        { name: 'Fr.Antony Valekkalam CMI', position: 'Principal' },
+        { name: 'Mr. Syam Mohan', position: 'Office Superintendent' },
+        // { name: '', position: 'Senior Clerk' },
         { name: 'Mr. Antony J.', position: 'Senior Clerk' },
-        { name: 'Mr. Joshy Antony', position: 'Senior Clerk' },
+        // { name: 'Mr. Joshy Antony', position: 'Senior Clerk' },
         { name: 'Mr. Tom Thomas', position: 'Clerk' },
         { name: 'Mr. Mathew A.J.', position: 'Clerk' },
         { name: 'Mr. Bibin Thomas', position: 'Clerk' },
         { name: 'Mrs. Radhika M.', position: 'Steno Typist' },
         { name: 'Mr. Shijo Cherian', position: 'Librarian' },
         { name: 'Mr. Vijayaraj M.', position: 'Library Attender' },
-        { name: 'Mr. Joshy Josekutty', position: 'Store Keeper' },
         { name: 'Mr. Vishnu Kumar V.L.', position: 'Office Attendant' },
         { name: 'Mrs. Elizabeth P.A.', position: 'Office Attendant' },
         { name: 'Mr. Ajay T.A.', position: 'Office Attendant' },
@@ -71,14 +70,14 @@ export default function AdministrativeStaff() {
   return (
     <div className='px-[5vw] py-[2rem]'>
       <Titlebar title='Administrative Staff' />
-      
+
       <div className="mt-[-10px] space-y-8">
         {sections.map((section, sectionIndex) => (
           <div key={sectionIndex} className="bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100">
             <div className="bg-gradient-to-r from-indigo-700 to-indigo-900 px-6">
               <h2 className="text-xl font-semibold text-white">{section.title}</h2>
             </div>
-            
+
             <div className="p-6">
               {/* Group staff by position category */}
               {Object.entries(
@@ -111,7 +110,7 @@ export default function AdministrativeStaff() {
             </div>
           </div>
         ))}
-        
+
         <div className="bg-indigo-50 rounded-xl p-6 text-center border border-indigo-100">
           <p className="text-indigo-800 font-medium">
             Our administrative team ensures the smooth operation and management of the institution.

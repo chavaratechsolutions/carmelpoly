@@ -197,10 +197,8 @@ export const departments = {
       "Survey Laboratory"
     ],
     faculty: [
-      "Fr. Antony Varghese CMI - Head of the Department",
-      "Fr. James Devasia CMI - Lecturer/Principal",
+      "Fr. Siji Thomas P.T. CMI  - Head of the Department",
       "Mr. Rajesh P.V. - Lecturer",
-      "Fr. Siji Thomas P.T. CMI - Lecturer",
       "Fr. Bijo M.D. CMI - Lecturer (Guest)",
       "Mrs. Amalu Mariya Joseph - Demonstrator",
       "Mrs. Meenu M. - Demonstrator",
@@ -231,7 +229,6 @@ export const departments = {
       "Mr. Shybu Varghese - Lecturer",
       "Mr. Hareesh B. - Lecturer",
       "Mrs. Sreeji Sreenivas - Lecturer",
-      "Mr. Sebin James - Lecturer (Guest)",
       "Mr. Jefin Chacko - Demonstrator",
       "Mr. Francis Augustin Joseph - Demonstrator",
       "Mr. Sujit Kumar P. - Trade Instructor",
@@ -256,7 +253,7 @@ export const departments = {
       "Mrs. Tinu Scaria - Lecturer",
       "Mr. Ninan John - Lecturer",
       "Mrs. Rose Philip - Lecturer (Guest)",
-      "Mrs. Swathi Chandran C.S. - Lecturer (Guest)",
+      "Mr. Vineeth Mathew - Lecturer",
       "Mr. Venugopal K.S. - Demonstrator",
       "Mrs. Rajani R. - Demonstrator",
       "Mr. Manoj George - Trade Instructor",
@@ -300,7 +297,7 @@ export const departments = {
       "Mr. Rinju Punnoose - Demonstrator",
       "Mr. Jobin George - Demonstrator",
       "Mr. Akhil T.A. - Demonstrator",
-      "Mr. Harisankar E.S. - Trade Instructor"
+
     ]
   },
 
@@ -328,7 +325,7 @@ export const departments = {
       "Mr. Dhanush A. - Lecturer",
       "Mrs. Soumya Xavier - Lecturer",
       "Mrs. Ligymol Mathew - Lecturer",
-      "Mr. Vineeth Mathew - Lecturer",
+      "Mrs. Swathi Chandran C.S. - Lecturer (Guest)",
       "Mrs. Mini M. - Demonstrator",
       "Mrs. Kanishka K. - Demonstrator",
       "Mr. Sudheer Babu P. - Demonstrator",
