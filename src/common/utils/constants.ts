@@ -197,14 +197,14 @@ export const departments = {
       "Survey Laboratory"
     ],
     faculty: [
-      "Fr. Siji Thomas P.T. CMI  - Head of the Department",
-      "Mr. Rajesh P.V. - Lecturer",
-      "Fr. Bijo M.D. CMI - Lecturer (Guest)",
-      "Mrs. Amalu Mariya Joseph - Demonstrator",
-      "Mrs. Meenu M. - Demonstrator",
-      "Mr. Benzilal V.S. - Trade Instructor",
-      "Mr. Tomson K. James - Tradesman",
-      "Mr. Sujith Jose - Tradesman"
+      { name: "Fr. Siji Thomas P.T. CMI", designation: "Head of the Department", photo: "" },
+      { name: "Mr. Rajesh P.V.", designation: "Lecturer", photo: "" },
+      { name: "Fr. Bijo M.D. CMI", designation: "Lecturer (Guest)", photo: "" },
+      { name: "Mrs. Amalu Mariya Joseph", designation: "Demonstrator", photo: "" },
+      { name: "Mrs. Meenu M.", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Benzilal V.S.", designation: "Trade Instructor", photo: "" },
+      { name: "Mr. Tomson K. James", designation: "Tradesman", photo: "" },
+      { name: "Mr. Sujith Jose", designation: "Tradesman", photo: "" }
     ]
   },
 
@@ -225,15 +225,15 @@ export const departments = {
       "Junior Workshop"
     ],
     faculty: [
-      "Mr. Rajesh R. - Head of the Department",
-      "Mr. Shybu Varghese - Lecturer",
-      "Mr. Hareesh B. - Lecturer",
-      "Mrs. Sreeji Sreenivas - Lecturer",
-      "Mr. Jefin Chacko - Demonstrator",
-      "Mr. Francis Augustin Joseph - Demonstrator",
-      "Mr. Sujit Kumar P. - Trade Instructor",
-      "Mr. Manoj P. Kuriakose - Tradesman",
-      "Mr. Paul James - Tradesman"
+      { name: "Mr. Rajesh R.", designation: "Head of the Department", photo: "" },
+      { name: "Mr. Shybu Varghese", designation: "Lecturer", photo: "" },
+      { name: "Mr. Hareesh B.", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Sreeji Sreenivas", designation: "Lecturer", photo: "" },
+      { name: "Mr. Jefin Chacko", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Francis Augustin Joseph", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Sujit Kumar P.", designation: "Trade Instructor", photo: "" },
+      { name: "Mr. Manoj P. Kuriakose", designation: "Tradesman", photo: "" },
+      { name: "Mr. Paul James", designation: "Tradesman", photo: "" }
     ]
   },
 
@@ -249,16 +249,16 @@ export const departments = {
     pso: [],
     labs: ["Electrical Laboratory"],
     faculty: [
-      "Fr. Jacob Kurian CMI - Head of the Department",
-      "Mrs. Tinu Scaria - Lecturer",
-      "Mr. Ninan John - Lecturer",
-      "Mrs. Rose Philip - Lecturer (Guest)",
-      "Mr. Vineeth Mathew - Lecturer",
-      "Mr. Venugopal K.S. - Demonstrator",
-      "Mrs. Rajani R. - Demonstrator",
-      "Mr. Manoj George - Trade Instructor",
-      "Mr. John Thomas K.J. - Tradesman",
-      "Mr. Lijomon Mathew - Tradesman"
+      { name: "Fr. Jacob Kurian CMI", designation: "Head of the Department", photo: "" },
+      { name: "Mrs. Tinu Scaria", designation: "Lecturer", photo: "" },
+      { name: "Mr. Ninan John", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Rose Philip", designation: "Lecturer (Guest)", photo: "" },
+      { name: "Mr. Vineeth Mathew", designation: "Lecturer", photo: "" },
+      { name: "Mr. Venugopal K.S.", designation: "Demonstrator", photo: "" },
+      { name: "Mrs. Rajani R.", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Manoj George", designation: "Trade Instructor", photo: "" },
+      { name: "Mr. John Thomas K.J.", designation: "Tradesman", photo: "" },
+      { name: "Mr. Lijomon Mathew", designation: "Tradesman", photo: "" }
     ]
   },
 
@@ -289,15 +289,14 @@ export const departments = {
       "Automobile Electrical Laboratory"
     ],
     faculty: [
-      "Mr. Jonu Joseph - Head of the Department",
-      "Mr. Deepu V. Kurup - Lecturer",
-      "Mr. Abin P.G. - Lecturer",
-      "Mr. Jayakrishnan M. - Lecturer",
-      "Mr. Ben B. Thomas - Lecturer",
-      "Mr. Rinju Punnoose - Demonstrator",
-      "Mr. Jobin George - Demonstrator",
-      "Mr. Akhil T.A. - Demonstrator",
-
+      { name: "Mr. Jonu Joseph", designation: "Head of the Department", photo: "" },
+      { name: "Mr. Deepu V. Kurup", designation: "Lecturer", photo: "" },
+      { name: "Mr. Abin P.G.", designation: "Lecturer", photo: "" },
+      { name: "Mr. Jayakrishnan M.", designation: "Lecturer", photo: "" },
+      { name: "Mr. Ben B. Thomas", designation: "Lecturer", photo: "" },
+      { name: "Mr. Rinju Punnoose", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Jobin George", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Akhil T.A.", designation: "Demonstrator", photo: "" }
     ]
   },
 
@@ -321,16 +320,16 @@ export const departments = {
     ],
     labs: [],
     faculty: [
-      "Mrs. Jisha Agnes Jose - Head of the Department",
-      "Mr. Dhanush A. - Lecturer",
-      "Mrs. Soumya Xavier - Lecturer",
-      "Mrs. Ligymol Mathew - Lecturer",
-      "Mrs. Swathi Chandran C.S. - Lecturer (Guest)",
-      "Mrs. Mini M. - Demonstrator",
-      "Mrs. Kanishka K. - Demonstrator",
-      "Mr. Sudheer Babu P. - Demonstrator",
-      "Mr. C.L. Ramesh - Trade Instructor",
-      "Mr. Radhakrishnan - Tradesman"
+      { name: "Mrs. Jisha Agnes Jose", designation: "Head of the Department", photo: "" },
+      { name: "Mr. Dhanush A.", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Soumya Xavier", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Ligymol Mathew", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Swathi Chandran C.S.", designation: "Lecturer (Guest)", photo: "" },
+      { name: "Mrs. Mini M.", designation: "Demonstrator", photo: "" },
+      { name: "Mrs. Kanishka K.", designation: "Demonstrator", photo: "" },
+      { name: "Mr. Sudheer Babu P.", designation: "Demonstrator", photo: "" },
+      { name: "Mr. C.L. Ramesh", designation: "Trade Instructor", photo: "" },
+      { name: "Mr. Radhakrishnan", designation: "Tradesman", photo: "" }
     ]
   },
 
@@ -362,15 +361,15 @@ export const departments = {
       "CAD Laboratory"
     ],
     faculty: [
-      "Mrs. Deepa Nair - Head of the Department",
-      "Mrs. Surya V. - Lecturer",
-      "Mrs. Jyothi Joy - Lecturer",
-      "Mrs. Rincy Joseph - Lecturer",
-      "Mrs. Preethy Prakash - Lecturer",
-      "Mrs. Minu Saradi - Demonstrator",
-      "Mrs. Sowmya S. - Demonstrator",
-      "Mrs. Kiran M. Thomas - Demonstrator",
-      "Mr. A. Yoonus - Trade Instructor"
+      { name: "Mrs. Deepa Nair", designation: "Head of the Department", photo: "/faculty/hod-cse.jpeg" },
+      { name: "Mrs. Surya V.", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Jyothi Joy", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Rincy Joseph", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Preethy Prakash", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Minu Saradi", designation: "Demonstrator", photo: "" },
+      { name: "Mrs. Sowmya S.", designation: "Demonstrator", photo: "" },
+      { name: "Mrs. Kiran M. Thomas", designation: "Demonstrator", photo: "" },
+      { name: "Mr. A. Yoonus", designation: "Trade Instructor", photo: "" }
     ]
   },
   // ge: {
