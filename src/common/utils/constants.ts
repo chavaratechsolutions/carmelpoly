@@ -362,10 +362,10 @@ export const departments = {
     ],
     faculty: [
       { name: "Mrs. Deepa Nair", designation: "Head of the Department", photo: "/faculty/hod-cse.jpeg" },
-      { name: "Mrs. Surya V.", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Surya V.", designation: "Lecturer", photo: "/faculty/surya.jpeg" },
       { name: "Mrs. Jyothi Joy", designation: "Lecturer", photo: "" },
       { name: "Mrs. Rincy Joseph", designation: "Lecturer", photo: "" },
-      { name: "Mrs. Preethy Prakash", designation: "Lecturer", photo: "" },
+      { name: "Mrs. Preethy Prakash", designation: "Lecturer", photo: "/faculty/preethy.jpeg" },
       { name: "Mrs. Minu Saradi", designation: "Demonstrator", photo: "" },
       { name: "Mrs. Sowmya S.", designation: "Demonstrator", photo: "" },
       { name: "Mrs. Kiran M. Thomas", designation: "Demonstrator", photo: "" },
