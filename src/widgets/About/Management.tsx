@@ -76,7 +76,9 @@ export default function Management() {
           <li>Rev.Fr.Joseph Palakunnel CMI (2008 – 2011)</li>
           <li>Rev.Fr.Gregory Perumalil CMI (2011 – 2016)</li>
           <li>Rev.Fr.Mathew Arekalam CMI (2016 – 2023)</li>
-          <li>Rev.Fr.Thomas Choolaparampil CMI (2023 – present)</li>
+          <li>Rev.Fr.Thomas Choolaparampil CMI (2023 – 2026)</li>
+          <li>Rev.Fr.Thomas Choolaparampil CMI (2026 – present)</li>
+
         </ol>
       </section>
 

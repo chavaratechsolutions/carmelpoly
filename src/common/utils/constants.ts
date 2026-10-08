@@ -458,9 +458,9 @@ export const departments = {
 
 export const managementTeam = [{
   id: 1,
-  name: "Rev.Fr.Thomas Choolaparampil CMI",
+  name: "Rev.Fr Paul Thunduparampil CMI",
   position: "Chairman",
-  image: "/management/Choolaparampil.png",
+  image: "/management/Rev.Fr Paul Thunduparampil CMI.jpeg",
   contact: "0477-2287240"
 },
 {
